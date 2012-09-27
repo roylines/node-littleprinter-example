@@ -18,5 +18,9 @@
         "ejs": "0.8.2",
         "express": "3.0.0rc3",
         "littleprinter": "x.x.x"
+    },
+     "engines": {
+        "node": "0.8.x",
+        "npm":  "1.1.x"
     }
 }
